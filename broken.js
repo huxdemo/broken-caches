@@ -1,6 +1,6 @@
 document.write(
-	"Im the script of broken page" +
+	"Im the script of updated broken page" +
 	"<br/>" +
-	"I thought the window.Lib() should be true, and the real value is: " + Lib() 
+	"I thought the window.Lib() should be false, and the real value is: " + Lib() 
 )
 

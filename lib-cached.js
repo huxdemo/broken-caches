@@ -1,5 +1,5 @@
 window.Lib = function(){
-	return true
+	return false
 }
 
 console.log(document.body.innerHTML)
